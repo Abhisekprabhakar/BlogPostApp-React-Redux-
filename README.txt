@@ -1,6 +1,6 @@
 Blog Post App using React (Redux and context api):
 
-How to start:
+How to start(after de-compressing folder):
 1.) Open the terminal in Root directory and run "npm install"
 2.) after installation type "npm start" to start the application.
 note: run the application on port 3000 only as application is using google-login and configure for port http://localhost:3000
