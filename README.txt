@@ -13,5 +13,5 @@ note: Edit blog, add blog, like/unlike blog feature are only accessible to logge
 3.) user can read the blog by clicking the blog card.
 4.) Post login user can add blog, edit existing blogs and like/unlike blog.
 
-#ContextApi is used for storing authentication details like user details, isSignedIn
-#Redux is for storing blogs and performing blog operations
+#ContextApi is used for storing authentication details like user details, isSignedIn.
+#Redux is for storing blogs and performing blog operations.
